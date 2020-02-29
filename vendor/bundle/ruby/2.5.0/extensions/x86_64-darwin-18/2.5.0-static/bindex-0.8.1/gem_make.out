@@ -1,0 +1,15 @@
+current directory: /Users/KotegawaMinoru/Desktop/ruby/ransack_sample_01/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/KotegawaMinoru/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20200301-23491-1jklr5j.rb extconf.rb
+creating Makefile
+
+current directory: /Users/KotegawaMinoru/Desktop/ruby/ransack_sample_01/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/KotegawaMinoru/Desktop/ruby/ransack_sample_01/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/KotegawaMinoru/Desktop/ruby/ransack_sample_01/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200301-23491-1tpf7fr/skiptrace/internal

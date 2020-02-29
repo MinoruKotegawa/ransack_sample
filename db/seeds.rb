@@ -1,0 +1,5 @@
+User.create!(name: 'tanaka', age: 35)
+User.create!(name: 'sato', age: 20)
+User.create!(name: 'suzuki', age: 30)
+User.create!(name: 'yamagishi', age: 45)
+User.create!(name: 'kote', age: 25)
